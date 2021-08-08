@@ -1,12 +1,10 @@
 import React from 'react';
-//component
-import Resturant from './component/compo/Resturant';
 
 const App = () =>{
   return (
     <>
     <div className="App">
-      <Resturant />
+      <h1>hello world</h1>
     </div>
     </>
   )
